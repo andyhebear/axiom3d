@@ -36,7 +36,7 @@ Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307 USA
 
 // <file>
 //     <license see="http://axiom3d.net/wiki/index.php/license.txt"/>
-//     <id value="$Id$"/>
+//     <id value="$Id: Plane.cs 3310 2012-05-31 15:56:46Z borrillis $"/>
 // </file>
 
 #endregion SVN Version Information

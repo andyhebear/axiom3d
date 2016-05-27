@@ -26,7 +26,7 @@
 
 // <file>
 //     <license see="http://axiom3d.net/wiki/index.php/license.txt"/>
-//     <id value="$Id$"/>
+//     <id value="$Id: D3D9VideoModeList.cs 3362 2012-07-29 00:40:37Z romeoxbm $"/>
 // </file>
 
 #endregion SVN Version Information

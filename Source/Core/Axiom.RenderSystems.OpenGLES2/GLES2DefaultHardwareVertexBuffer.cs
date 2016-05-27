@@ -26,7 +26,7 @@
 
 // <file>
 //     <license see="http://axiomengine.sf.net/wiki/index.php/license.txt"/>
-//     <id value="$Id$"/>
+//     <id value="$Id: GLES2DefaultHardwareVertexBuffer.cs 3323 2012-07-16 20:58:58Z borrillis $"/>
 // </file>
 
 #endregion SVN Version Information

@@ -30,7 +30,7 @@ Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307 USA
 
 // <file>
 //     <license see="http://axiom3d.net/wiki/index.php/license.txt"/>
-//     <id value="$Id$"/>
+//     <id value="$Id: HighLevelGpuProgramManager.cs 3363 2012-07-29 00:49:26Z romeoxbm $"/>
 // </file>
 
 #endregion SVN Version Information

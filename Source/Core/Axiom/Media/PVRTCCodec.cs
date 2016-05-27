@@ -26,7 +26,7 @@
 
 // <file>
 //     <license see="http://axiom3d.net/wiki/index.php/license.txt"/>
-//     <id value="$Id$"/>
+//     <id value="$Id: PVRTCCodec.cs 3385 2012-08-14 19:22:49Z borrillis $"/>
 // </file>
 
 #endregion SVN Version Information

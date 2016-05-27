@@ -26,7 +26,7 @@
 
 // <file>
 //     <license see="http://axiom3d.net/wiki/index.php/license.txt"/>
-//     <id value="$Id$"/>
+//     <id value="$Id: GLES2Texture.cs 3304 2012-05-31 14:28:26Z borrillis $"/>
 // </file>
 
 #endregion SVN Version Information

@@ -31,7 +31,7 @@ Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307 USA
 // <file>
 //     <copyright see="prj:///doc/copyright.txt"/>
 //     <license see="prj:///doc/license.txt"/>
-//     <id value="$Id$"/>
+//     <id value="$Id: ZipArchive.cs 3398 2012-11-15 15:55:34Z borrillis $"/>
 // </file>
 
 #endregion SVN Version Information

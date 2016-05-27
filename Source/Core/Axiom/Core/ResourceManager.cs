@@ -31,7 +31,7 @@ Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307 USA
 // <file>
 //     <copyright see="prj:///doc/copyright.txt"/>
 //     <license see="prj:///doc/license.txt"/>
-//     <id value="$Id$"/>
+//     <id value="$Id: ResourceManager.cs 3362 2012-07-29 00:40:37Z romeoxbm $"/>
 // </file>
 
 #endregion SVN Version Information

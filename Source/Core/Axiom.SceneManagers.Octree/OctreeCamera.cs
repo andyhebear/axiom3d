@@ -30,7 +30,7 @@ Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307 USA
 
 // <file>
 //     <license see="http://axiom3d.net/wiki/index.php/license.txt"/>
-//     <id value="$Id$"/>
+//     <id value="$Id: OctreeCamera.cs 3312 2012-05-31 16:21:05Z borrillis $"/>
 // </file>
 
 #endregion SVN Version Information

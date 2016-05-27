@@ -1,5 +1,5 @@
 /*-
- * $Id$
+ * $Id: BerkeleyDB-License.txt 2999 2012-01-18 09:37:32Z borrillis $
  */
 
 The following is the license that applies to this copy of the Berkeley DB

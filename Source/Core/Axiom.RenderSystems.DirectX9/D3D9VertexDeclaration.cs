@@ -26,7 +26,7 @@
 
 // <file>
 //     <license see="http://axiom3d.net/wiki/index.php/license.txt"/>
-//     <id value="$Id$"/>
+//     <id value="$Id: D3D9VertexDeclaration.cs 3355 2012-07-27 16:26:54Z romeoxbm $"/>
 // </file>
 
 #endregion SVN Version Information

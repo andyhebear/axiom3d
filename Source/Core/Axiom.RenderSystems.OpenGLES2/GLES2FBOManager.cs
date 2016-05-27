@@ -26,7 +26,7 @@
 
 // <file>
 //     <license see="http://axiom3d.net/wiki/index.php/license.txt"/>
-//     <id value="$Id$"/>
+//     <id value="$Id: GLES2FBOManager.cs 3300 2012-05-22 20:26:00Z borrillis $"/>
 // </file>
 
 #endregion SVN Version Information

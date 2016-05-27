@@ -26,7 +26,7 @@
 
 // <file>
 //     <license see="http://axiom3d.net/wiki/index.php/license.txt"/>
-//     <id value="$Id$"/>
+//     <id value="$Id: GLES2RenderSystem.cs 3412 2012-12-13 19:35:47Z borrillis $"/>
 // </file>
 
 #endregion SVN Version Information

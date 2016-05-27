@@ -32,7 +32,7 @@ Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307 USA
 
 // <file>
 //     <license see="http://axiomengine.sf.net/wiki/index.php/license.txt"/>
-//     <id value="$Id$"/>
+//     <id value="$Id: GLESTextureManager.cs 3293 2012-05-21 11:56:22Z borrillis $"/>
 // </file>
 
 #endregion SVN Version Information

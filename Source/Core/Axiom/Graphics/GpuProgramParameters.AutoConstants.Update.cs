@@ -26,7 +26,7 @@
 
 // <file>
 //     <license see="http://axiom3d.net/wiki/index.php/license.txt"/>
-//     <id value="$Id$"/>
+//     <id value="$Id: GpuProgramParameters.AutoConstants.Update.cs 3293 2012-05-21 11:56:22Z borrillis $"/>
 // </file>
 
 #endregion SVN Version Information

@@ -26,7 +26,7 @@
 
 // <file>
 //     <license see="http://axiom3d.net/wiki/index.php/license.txt"/>
-//     <id value="$Id$"/>
+//     <id value="$Id: HLSLProgram.cs 3389 2012-08-21 10:35:23Z bostich1983 $"/>
 // </file>
 
 #endregion SVN Version Information

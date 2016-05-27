@@ -26,7 +26,7 @@
 
 // <file>
 //     <license see="http://axiom3d.net/wiki/index.php/license.txt"/>
-//     <id value="$Id$"/>
+//     <id value="$Id: ObjectExtensions.cs 3308 2012-05-31 15:13:54Z borrillis $"/>
 // </file>
 
 #endregion SVN Version Information

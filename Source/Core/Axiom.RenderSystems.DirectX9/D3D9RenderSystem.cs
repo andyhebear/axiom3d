@@ -26,7 +26,7 @@
 
 // <file>
 //     <license see="http://axiom3d.net/wiki/index.php/license.txt"/>
-//     <id value="$Id$"/>
+//     <id value="$Id: D3D9RenderSystem.cs 3403 2012-11-15 15:57:49Z borrillis $"/>
 // </file>
 
 #endregion SVN Version Information

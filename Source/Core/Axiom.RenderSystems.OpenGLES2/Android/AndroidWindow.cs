@@ -32,7 +32,7 @@ Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307 USA
 
 // <file>
 //     <license see="http://axiomengine.sf.net/wiki/index.php/license.txt"/>
-//     <id value="$Id$"/>
+//     <id value="$Id: AndroidWindow.cs 3299 2012-05-22 19:17:09Z borrillis $"/>
 // </file>
 
 #endregion SVN Version Information

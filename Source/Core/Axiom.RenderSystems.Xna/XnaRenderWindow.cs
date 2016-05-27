@@ -30,7 +30,7 @@ Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307 USA
 
 // <file>
 //     <license see="http://axiom3d.net/wiki/index.php/license.txt"/>
-//     <id value="$Id$"/>
+//     <id value="$Id: XnaRenderWindow.cs 3405 2012-11-15 15:58:44Z borrillis $"/>
 // </file>
 
 #endregion SVN Version Information

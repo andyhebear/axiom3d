@@ -26,7 +26,7 @@
 
 // <file>
 //     <license see="http://axiom3d.net/wiki/index.php/license.txt"/>
-//     <id value="$Id$"/>
+//     <id value="$Id: DisposableObject.cs 3360 2012-07-28 03:17:24Z romeoxbm $"/>
 // </file>
 
 #endregion SVN Version Information

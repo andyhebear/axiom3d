@@ -30,7 +30,7 @@ Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307 USA
 
 // <file>
 //     <license see="http://axiom3d.net/wiki/index.php/license.txt"/>
-//     <id value="$Id$"/>
+//     <id value="$Id: HardwareBuffer.cs 3355 2012-07-27 16:26:54Z romeoxbm $"/>
 // </file>
 
 #endregion SVN Version Information

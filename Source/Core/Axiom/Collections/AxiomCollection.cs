@@ -28,7 +28,7 @@
 
 // <file>
 //     <license see="http://axiom3d.net/wiki/index.php/license.txt"/>
-//     <id value="$Id$"/>
+//     <id value="$Id: AxiomCollection.cs 3315 2012-05-31 20:37:22Z borrillis $"/>
 // </file>
 
 #endregion SVN Version Information

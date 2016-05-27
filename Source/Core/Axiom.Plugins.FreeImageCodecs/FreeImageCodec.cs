@@ -26,7 +26,7 @@
 
 // <file>
 //     <license see="http://axiom3d.net/wiki/index.php/license.txt"/>
-//     <id value="$Id$"/>
+//     <id value="$Id: FreeImageCodec.cs 3356 2012-07-27 17:50:12Z romeoxbm $"/>
 // </file>
 
 #endregion SVN Version Information

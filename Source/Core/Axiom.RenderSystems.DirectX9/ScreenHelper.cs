@@ -26,7 +26,7 @@
 
 // <file>
 //     <license see="http://axiom3d.net/wiki/index.php/license.txt"/>
-//     <id value="$Id$"/>
+//     <id value="$Id: ScreenHelper.cs 3313 2012-05-31 16:30:24Z borrillis $"/>
 // </file>
 
 #endregion SVN Version Information

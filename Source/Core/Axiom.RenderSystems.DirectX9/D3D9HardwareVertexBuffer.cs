@@ -26,7 +26,7 @@
 
 // <file>
 //     <license see="http://axiom3d.net/wiki/index.php/license.txt"/>
-//     <id value="$Id$"/>
+//     <id value="$Id: D3D9HardwareVertexBuffer.cs 3380 2012-08-10 23:10:48Z borrillis $"/>
 // </file>
 
 #endregion SVN Version Information

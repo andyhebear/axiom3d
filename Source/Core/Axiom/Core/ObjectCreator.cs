@@ -30,7 +30,7 @@ Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307 USA
 
 // <file>
 //     <license see="http://axiom3d.net/wiki/index.php/license.txt"/>
-//     <id value="$Id$"/>
+//     <id value="$Id: ObjectCreator.cs 3366 2012-07-31 14:58:36Z borrillis $"/>
 // </file>
 
 #endregion SVN Version Information
